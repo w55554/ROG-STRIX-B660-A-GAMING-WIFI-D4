@@ -3,8 +3,8 @@
 |-|-|
 |主板|ROG STRIX B660-A GAMING WIFI D4|
 |CPU|I5-12600K|
-|内存||
-|网卡||
+|内存| Kingston FURY 32GB(16G×2) DDR4 |
+|网卡|Intel 2.5G I225-v |
 |WIFI||
 |声卡|ALC4080|
 |硬盘1||
