@@ -17,9 +17,11 @@
 
 **注意** 
 - BIOS配置 
+
   请按网络修改BIOS设置，这里不在赘述了。 
 
 - 安装注意 
+
   如果USB3.0提示安装失败，多尝试一些USB2.0的接口试试。 
 
 ![monterey](https://github.com/w55554/ROG-STRIX-B660-A-GAMING-WIFI-D4/blob/main/images/SystemInfo.png)
