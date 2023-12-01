@@ -1,8 +1,8 @@
 ## 机型配置如下
 |硬件|厂商和配置|
 |-|-|
-|主板|ROG STRIX B660-A GAMING WIFI D4|
-|CPU|I5-12600K|
+|主板|ASUS ROG STRIX B660-A GAMING WIFI D4|
+|CPU| Intel I5-12600K|
 |内存| Kingston FURY 32GB(16G×2) DDR4|
 |网卡|Intel 2.5G I225-v|
 |WIFI|Intel Wi-Fi 6 AX 201 160MHz|
