@@ -15,6 +15,12 @@
 |硬盘5|ST2000DM008-2FR102|
 |硬盘6|ST2000DM001-1ER164|
 
+**注意** 
+- BIOS配置 
+  请按网络修改BIOS设置，这里不在赘述了。 
+
+- 安装注意 
+  如果USB3.0提示安装失败，多尝试一些USB2.0的接口试试。 
 
 ![monterey](https://github.com/w55554/ROG-STRIX-B660-A-GAMING-WIFI-D4/blob/main/images/SystemInfo.png)
 ![monterey](https://github.com/w55554/ROG-STRIX-B660-A-GAMING-WIFI-D4/blob/main/images/AboutInfo.png)
