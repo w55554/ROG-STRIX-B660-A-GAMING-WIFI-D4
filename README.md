@@ -24,6 +24,8 @@
 
   如果USB3.0提示安装失败，多尝试一些USB2.0的接口试试。 
 
+## 系统部分截图
+
 ![monterey](https://github.com/w55554/ROG-STRIX-B660-A-GAMING-WIFI-D4/blob/main/images/SystemInfo.png)
 ![monterey](https://github.com/w55554/ROG-STRIX-B660-A-GAMING-WIFI-D4/blob/main/images/AboutInfo.png)
 ![monterey](https://github.com/w55554/ROG-STRIX-B660-A-GAMING-WIFI-D4/blob/main/images/Hardware.png)
