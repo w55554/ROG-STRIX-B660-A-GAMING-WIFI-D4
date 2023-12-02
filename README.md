@@ -24,6 +24,30 @@
 
   如果USB3.0提示安装失败，多尝试一些USB2.0的接口试试。 
 
+## 系统功能部分
+
+- wifi
+
+  测试正常
+
+- 蓝牙
+  
+  测试正常
+
+- 有线网卡
+
+  测试正常
+
+- 休眠
+
+  测试正常，定义了UTBMAP.kext，配合USBToolBox.kext一起使用，不然单独使用UTBMAP.kext 启动系统很慢且进入系统后USB设备都会失效。
+
+## 没有搞定
+
+内存这有叹号，另外2个槽也模拟了16G内存，但是叹号依旧，"关于本机" 这里一直挂着 "1个提醒"，这里不在深究了，不影响使用
+
+![monterey](https://github.com/w55554/ROG-STRIX-B660-A-GAMING-WIFI-D4/blob/main/images/Memory_Alert.png)
+
 ## 系统部分截图
 
 ![monterey](https://github.com/w55554/ROG-STRIX-B660-A-GAMING-WIFI-D4/blob/main/images/SystemInfo.png)

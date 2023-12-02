@@ -817,13 +817,13 @@
                     <key>Arch</key>
                     <string>Any</string>
                     <key>BundlePath</key>
-                    <string>USBToolBox.kext</string>
+                    <string>UTBMap.kext</string>
                     <key>Comment</key>
-                    <string>V1.1.0</string>
+                    <string>V1.1</string>
                     <key>Enabled</key>
-                    <false/>
+                    <true/>
                     <key>ExecutablePath</key>
-                    <string>Contents/MacOS/USBToolBox</string>
+                    <string></string>
                     <key>MaxKernel</key>
                     <string></string>
                     <key>MinKernel</key>
@@ -835,13 +835,13 @@
                     <key>Arch</key>
                     <string>Any</string>
                     <key>BundlePath</key>
-                    <string>UTBMap.kext</string>
+                    <string>USBToolBox.kext</string>
                     <key>Comment</key>
-                    <string>V1.1</string>
+                    <string>V1.1.1</string>
                     <key>Enabled</key>
-                    <false/>
+                    <true/>
                     <key>ExecutablePath</key>
-                    <string></string>
+                    <string>Contents/MacOS/USBToolBox</string>
                     <key>MaxKernel</key>
                     <string></string>
                     <key>MinKernel</key>
@@ -1335,7 +1335,7 @@
             <key>Automatic</key>
             <true/>
             <key>CustomMemory</key>
-            <false/>
+            <true/>
             <key>Generic</key>
             <dict>
                 <key>AdviseFeatures</key>
@@ -1358,6 +1358,98 @@
                 <string>F5KYF04DP7QM</string>
                 <key>SystemUUID</key>
                 <string>E5F8768A-F520-4AE0-83EA-A3893C3D3164</string>
+            </dict>
+            <key>Memory</key>
+            <dict>
+                <key>DataWidth</key>
+                <integer>64</integer>
+                <key>Devices</key>
+                <array>
+                    <dict>
+                        <key>AssetTag</key>
+                        <string></string>
+                        <key>BankLocator</key>
+                        <string></string>
+                        <key>DeviceLocator</key>
+                        <string>Controller0-ChannelA-DIMM0</string>
+                        <key>Manufacturer</key>
+                        <string>Kingston</string>
+                        <key>PartNumber</key>
+                        <string></string>
+                        <key>SerialNumber</key>
+                        <string></string>
+                        <key>Size</key>
+                        <integer>16384</integer>
+                        <key>Speed</key>
+                        <integer>2400</integer>
+                    </dict>
+                    <dict>
+                        <key>AssetTag</key>
+                        <string></string>
+                        <key>BankLocator</key>
+                        <string></string>
+                        <key>DeviceLocator</key>
+                        <string>Controller0-ChannelA-DIMM1</string>
+                        <key>Manufacturer</key>
+                        <string>Kingston</string>
+                        <key>PartNumber</key>
+                        <string>KF3200C16D4/16GX</string>
+                        <key>SerialNumber</key>
+                        <string>7E296E08</string>
+                        <key>Size</key>
+                        <integer>16384</integer>
+                        <key>Speed</key>
+                        <integer>2400</integer>
+                    </dict>
+                    <dict>
+                        <key>AssetTag</key>
+                        <string></string>
+                        <key>BankLocator</key>
+                        <string></string>
+                        <key>DeviceLocator</key>
+                        <string>Controller1-ChannelA-DIMM0</string>
+                        <key>Manufacturer</key>
+                        <string>Kingston</string>
+                        <key>PartNumber</key>
+                        <string></string>
+                        <key>SerialNumber</key>
+                        <string></string>
+                        <key>Size</key>
+                        <integer>16384</integer>
+                        <key>Speed</key>
+                        <integer>2400</integer>
+                    </dict>
+                    <dict>
+                        <key>AssetTag</key>
+                        <string></string>
+                        <key>BankLocator</key>
+                        <string></string>
+                        <key>DeviceLocator</key>
+                        <string>Controller1-ChannelA-DIMM1</string>
+                        <key>Manufacturer</key>
+                        <string>Kingston</string>
+                        <key>PartNumber</key>
+                        <string>KF3200C16D4/16GX</string>
+                        <key>SerialNumber</key>
+                        <string>7E296EA7</string>
+                        <key>Size</key>
+                        <integer>16384</integer>
+                        <key>Speed</key>
+                        <integer>2400</integer>
+                    </dict>
+                </array>
+                <key>ErrorCorrection</key>
+                <integer>3</integer>
+                <key>FormFactor</key>
+                <integer>9</integer>
+                <key>MaxCapacity</key>
+                <integer>137438953472</integer>
+                <key>TotalWidth</key>
+                <integer>64</integer>
+                <key>Type</key>
+                <integer>26</integer>
+                <key>TypeDetail</key>
+                <integer>128</integer>
             </dict>
             <key>UpdateDataHub</key>
             <true/>
