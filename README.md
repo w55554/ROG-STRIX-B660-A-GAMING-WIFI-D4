@@ -48,9 +48,17 @@
 
   测试正常，定义了UTBMAP.kext，配合USBToolBox.kext一起使用，不然单独使用UTBMAP.kext 启动系统很慢且进入系统后USB设备都会失效。
 
+- 隔空投送
+
+  没有测试，可以自己进行测试一下。
+
+- 随航
+
+  没有测试
+
 - USB
 
-  除了后面的那个红色的USB口(图中的10口)不能用以外，其他的都正常工作，不是强迫症，反正也用不到，懒得搞了。
+  除了后面的那个红色的USB口(图中网卡旁边的口)不能用以外，其他的都正常工作，不是强迫症，反正也用不到，懒得搞了。
   
  ![monterey](https://github.com/w55554/ROG-STRIX-B660-A-GAMING-WIFI-D4/blob/main/images/IO.png)
 
