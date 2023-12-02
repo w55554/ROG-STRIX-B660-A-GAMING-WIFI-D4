@@ -8,7 +8,7 @@
 |WIFI|Intel Wi-Fi 6 AX 201 160MHz|
 |声卡|ALC4080|
 |显卡|蓝宝石RX 590 GME 8G D5 超白金极光特别版(为了免驱,刷了580的vbios) |
-|硬盘1|Intel SSDPEKKW256G8 NVME|
+|硬盘1(macOS)|Intel SSDPEKKW256G8 NVME|
 |硬盘2|Samsung SSD 980 500G NVME|
 |硬盘3|ST1000LM048-2E7172|
 |硬盘4|ST1000LM048-2E7172|
